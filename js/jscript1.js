@@ -1,0 +1,1 @@
+ alert("Hello from jscript 1 file"); 
