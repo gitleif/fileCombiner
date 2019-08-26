@@ -1,6 +1,6 @@
 <?php
 /**
-* Simple demo : How to use filebcombiner class
+* Simple demo : How to use filecombiner class
 *
 *  Author : Leif Nesheim (gitleif)
 *  Url: https://github.com/gitleif/filecombiner
